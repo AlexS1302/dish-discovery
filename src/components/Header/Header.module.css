@@ -1,0 +1,23 @@
+.Header nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+}
+
+.navLinks {
+  display: flex;
+  gap: 2rem;
+}
+
+.navLinks a,
+.navLinks:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.logo {
+  color: var(--herb-green);
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.3rem;
+}
