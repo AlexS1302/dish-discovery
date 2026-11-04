@@ -1,3 +1,19 @@
+:root {
+  /* initial colour palette */
+  --herb-green: #347448;
+  --soft-sage: #8da77c;
+  --pistachio: #c6d9ac;
+  --vanilla-cream: #f7f5ec;
+  --oat-beige: #e7ddca;
+  --earthy-brown: #a77a55;
+  --terracotta: #e87948;
+  --charcoal-olive: #353b32;
+
+  --background: var(--vanilla-cream);
+  --primary: var(--herb-green);
+  --text: var(--charcoal-olive);
+}
+
 html,
 body,
 #root {
